@@ -1,4 +1,8 @@
-## Your Name
+## Pablo Joyce
+
+I am a Full Stack Developer and pillow fighting gold medalist eager to find an exciting opportunity to consoldate my programming skills, expand my knowledge and bring obvious benefit in my new role. I enjoy aspects of full stack development but am keen to focus on debeloping my front end skills.
+
+Before training in software development at the excellent Makers Academy, I was privileged to be working in primary schools in a variety of exciting and exceptional roles such as being a Forest School leader and planting a woodland from nothing in a open field, developing a tech and maker driven STEM lab and sending a Raspberry Pi computer into near space sending photos and telemetry as it went soaring towards the International Space Station. Before teaching I was a bespoke furniture designer and craftsperson following one thread of my lifelong love of making and creativity. I see software development as an extension of this love of making.
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
