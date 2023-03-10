@@ -1,10 +1,10 @@
 ## Pablo Joyce
 
-I am a Full Stack Developer and pillow fighting gold medalist eager to find an exciting opportunity to consoldate my programming skills, expand my knowledge and bring obvious benefit in my new role. I enjoy aspects of full stack development but am keen to focus on debeloping my front end skills.
+I am a Full Stack Developer and pillow fighting gold medalist excited to find a great opportunity to consoldate my programming skills, expand my knowledge and bring obvious benefit in my new role. I enjoy all aspects of full stack development but am especially keen to focus on debeloping my front end skills.
 
-Before training in software development at the excellent Makers Academy, I was privileged to be working in primary schools in a variety of exciting and exceptional roles such as being a Forest School leader and planting a woodland from nothing in a open field, developing a tech and maker driven STEM lab and sending a Raspberry Pi computer into near space sending photos and telemetry as it went soaring towards the International Space Station. Before teaching I was a bespoke furniture designer and craftsperson following one thread of my lifelong love of making and creativity. I see software development as an extension of this love of making.
+Before training in software development at the excellent Makers Academy, I was privileged to be working in primary schools in a variety of both exciting and exceptional roles such as being a Forest School leader and planting a woodland from nothing in a open field, developing a tech and maker driven STEM lab and sending a Raspberry Pi computer into near space sending live photos and flight telemetry as it went soaring towards the International Space Station. Before teaching I was a bespoke furniture designer and craftsperson following one thread of my lifelong love of making and creativity.
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I see software development as an extension of my love of making and am excited by the endless possibilities of code, the problem solving and rapid development. As a primary school teacher I spent a few years as a specialist computing teacher where I introduced children to an exciting new world of possibilities such as creating robots using Raspberry Pis, micro:bits and such, but this also opened the door to myself, seeing the world as a digital creator rather than just a digital user.
 
 ## Projects
 
@@ -60,7 +60,11 @@ I honed my communication skills while completing my thesis at university, which 
 
 #### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
+BA(Hons) degree in Furniture Craftsmanship and Design.
+Buckinghamshire Chilterns University College, High Wycombe.
+Lower Second Pass.
+Sept 1988 to July 1989
+
 - Grade
 - Other cool stuff
 
@@ -70,7 +74,10 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I really enjoy climbing and surfing.
+I am habitually engaged in arts and crafts and making stuff in general such as book binding, axe carving and painting.
+I'm a part time board game geek.
+I have a deep love of mountains and forests and ven mores so when you get the two together.
 
 # From my original CV raw
 
