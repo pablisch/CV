@@ -60,27 +60,23 @@ I honed my communication skills while completing my thesis at university, which 
 
 ### Formal Education and Qualifications
 
-National Professional Qualification for Leading Teaching at UCL (IoE) and NELTSH, London. Nov 2021 to Nov 2022.
-
-Level 3 Forest School Leader qualification from Open College Network West Midlands through EarthCraft UK. July 2019 to Nov 2021.
-
-PGCE Certificate at The University of Cumbria, Tower Hamlets (London) campus. Sept 2010 to July 2011.
-
-BA(Hons) degree in Furniture Craftsmanship and Design.
-Buckinghamshire Chilterns University College, High Wycombe.
-Lower Second Pass. Sept 1993 to July 1996.
-
-Foundation Certificate in Art and Design at Hertfordshire College of Art and Design, St Albans. Sept 1988 to July 1989.
+- National Professional Qualification for Leading Teaching at UCL (IoE) and NELTSH, London. Nov 2021 to Nov 2022.
+- Level 3 Forest School Leader qualification from Open College Network West Midlands through EarthCraft UK. July 2019 to Nov 2021.
+- PGCE Certificate at The University of Cumbria, Tower Hamlets (London) campus. Sept 2010 to July 2011.
+- BA(Hons) degree in Furniture Craftsmanship and Design.
+  Buckinghamshire Chilterns University College, High Wycombe.
+  Lower Second Pass. Sept 1993 to July 1996.
+- Foundation Certificate in Art and Design at Hertfordshire College of Art and Design, St Albans. Sept 1988 to July 1989.
 
 ### Other Significant (and not so significant) Education and more
 
-Learn to Code with Ruby (Boris Paskhaver, Udemy, 33 hours of lectures, 2023)<br />
-Codeacademy Learn Ruby (completed Dec 2022) Minecraft Certified Educator (2019)<br />
-Certified Google Educator Level 1 (2018)<br />
-Apple Teacher (2018)<br />
-Certified Microsoft Educator (2018)<br />
-Raspberry Pi Certified Educator (2016)<br />
-Raspberry Pi Skycademy Graduate (2016)
+- Learn to Code with Ruby (Boris Paskhaver, Udemy, 33 hours of lectures, 2023)
+- Codeacademy Learn Ruby (completed Dec 2022) Minecraft Certified Educator (2019)
+  Certified Google Educator Level 1 (2018)<br />
+  Apple Teacher (2018)<br />
+  Certified Microsoft Educator (2018)<br />
+  Raspberry Pi Certified Educator (2016)<br />
+  Raspberry Pi Skycademy Graduate (2016)
 
 Diving Deep into Primary Programming (2018, with Jane Waite)<br />
 LGfL Minecraft Champions (2018, LGfL/Microsoft/ProdigyLearning)<br />
