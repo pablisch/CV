@@ -83,8 +83,10 @@ Planning and Pedagogy for Coding in Primary (2017, with Jane Waite)
 Micro:bit Hands On Workshop (2017, with Tig Williams)
 
 A series of educational resources written for the Raspberry Pi Foudation's Informal Learning Team, e.g.:
-Crumble Motor Buggy (github page)
-[Motors, robot buggies and Scratch 3](https://projects.raspberrypi.org/en/projects/motor-robot-buggy-scratch){:target="\_blank"}! (github page)
+
+[Crumble Motor Buggy](https://projects.raspberrypi.org/en/projects/build-crumble-motor-buggy/0) ([github page](https://github.com/raspberrypilearning/build-crumble-motor-buggy))
+
+[Motors, robot buggies and Scratch 3](https://projects.raspberrypi.org/en/projects/motor-robot-buggy-scratch) ([github page](https://github.com/raspberrypilearning/motor-robot-buggy-scratch/blob/master/en/step_1.md))
 
 Articles written for Hello World! magazine:
 'Get Sparkling with Crumbles', Hello World article, issue 8, May 2019.
