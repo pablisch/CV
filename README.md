@@ -72,34 +72,37 @@ Lower Second Pass. Sept 1993 to July 1996.
 
 Foundation Certificate in Art and Design at Hertfordshire College of Art and Design, St Albans. Sept 1988 to July 1989.
 
-#### Other Significant (and not so significant) Education and more
+### Other Significant (and not so significant) Education and more
 
-Learn to Code with Ruby (Boris Paskhaver, Udemy, 33 hours of lectures, 2023) Codeacademy Learn Ruby (completed Dec 2022) Minecraft Certified Educator (2019) Certified Google Educator Level 1 (2018)
-Apple Teacher (2018) Certified Microsoft Educator (2018) Raspberry Pi Certified Educator (2016) Raspberry Pi Skycademy Graduate (2016)
+Learn to Code with Ruby (Boris Paskhaver, Udemy, 33 hours of lectures, 2023)<br />
+Codeacademy Learn Ruby (completed Dec 2022) Minecraft Certified Educator (2019)<br />
+Certified Google Educator Level 1 (2018)<br />
+Apple Teacher (2018)<br />
+Certified Microsoft Educator (2018)<br />
+Raspberry Pi Certified Educator (2016)<br />
+Raspberry Pi Skycademy Graduate (2016)
 
-Diving Deep into Primary Programming (2018, with Jane Waite)
-LGfL Minecraft Champions (2018, LGfL/Microsoft/ProdigyLearning)
-Planning and Pedagogy for Coding in Primary (2017, with Jane Waite)
+Diving Deep into Primary Programming (2018, with Jane Waite)<br />
+LGfL Minecraft Champions (2018, LGfL/Microsoft/ProdigyLearning)<br />
+Planning and Pedagogy for Coding in Primary (2017, with Jane Waite)<br />
 Micro:bit Hands On Workshop (2017, with Tig Williams)
 
-A series of educational resources written for the Raspberry Pi Foudation's Informal Learning Team, e.g.:
-
-[Crumble Motor Buggy](https://projects.raspberrypi.org/en/projects/build-crumble-motor-buggy/0) ([github page](https://github.com/raspberrypilearning/build-crumble-motor-buggy))
-
+A series of educational resources written for the Raspberry Pi Foudation's Informal Learning Team, e.g.:<br />
+[Crumble Motor Buggy](https://projects.raspberrypi.org/en/projects/build-crumble-motor-buggy/0) ([github page](https://github.com/raspberrypilearning/build-crumble-motor-buggy))<br />
 [Motors, robot buggies and Scratch 3](https://projects.raspberrypi.org/en/projects/motor-robot-buggy-scratch) ([github page](https://github.com/raspberrypilearning/motor-robot-buggy-scratch/blob/master/en/step_1.md))
 
-Articles written for Hello World! magazine:
-'Get Sparkling with Crumbles', Hello World article, issue 8, May 2019.
-‘Get moving with Crumble’, Hello World article, issue 11, December 2019.
+Articles written for Hello World! magazine:<br />
+['Get Sparkling with Crumbles'](https://drive.google.com/file/d/1yUUAwGY1fK9Tl0r59wtcVd32sydWS_w5/view?usp=sharing), Hello World article, [issue 8](https://drive.google.com/file/d/1hyI4sBh5uyfLwgtgT8bJNF5VMNFRP11W/view?usp=sharing), May 2019.<br />
+[‘Get moving with Crumble’](https://drive.google.com/file/d/152B93VDnDqqQiMuQoppFDD7aG8YufguW/view?usp=sharing), Hello World article, [issue 11](https://drive.google.com/file/d/1tSiNqj3AsScRb-ULqRTN8lPgJ3rQrHm9/view?usp=sharing), December 2019.
 
-Cycling Proficiency Certificate
+Cycling Proficiency Certificate<br />
 Chainsaw Proficiency License
 
 ## Hobbies
 
-I really enjoy climbing and surfing.
-I am habitually engaged in arts and crafts and making stuff in general such as book binding, axe carving and painting.
-I'm a part time board game geek.
+I really enjoy climbing and surfing.<br />
+I am habitually engaged in arts and crafts and making stuff in general such as book binding, axe carving and painting.<br />
+I'm a part time board game geek.<br />
 I have a deep love of mountains and forests and ven mores so when you get the two together.
 
 # From my original CV raw
