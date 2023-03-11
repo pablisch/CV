@@ -2,7 +2,7 @@
 
 I am a Full Stack Developer and pillow fighting gold medalist excited to find a great opportunity to consoldate my programming skills, expand my knowledge and bring obvious benefit in my new role. I enjoy all aspects of full stack development but am especially keen to focus on debeloping my front end skills.
 
-Before training in software development at the excellent Makers Academy, I was privileged to be working in primary schools in a variety of both exciting and exceptional roles such as being a Forest School leader and planting a woodland from nothing in a open field, developing a tech and maker driven STEM lab and sending a Raspberry Pi computer into near space sending live photos and flight telemetry as it went soaring towards the International Space Station. Before teaching I was a bespoke furniture designer and craftsperson following one thread of my lifelong love of making and creativity.
+Before training in software development at the excellent Makers Academy, I was privileged to be working in primary schools in a variety of both exciting and exceptional roles such as being a Forest School leader and planting a woodland from nothing in a open field, developing a tech and maker driven STEM lab and sending a Raspberry Pi computer into near space sending live photos and flight telemetry as it went soaring towards the International Space Station. while teaching I also worked for the most excellent Raspberry Pi Foundation writing educational resources and prior to all that I was a bespoke furniture designer and craftsperson following one thread of my lifelong love of making and creativity.
 
 I see software development as an extension of my love of making and am excited by the endless possibilities of code, the problem solving and rapid development. As a primary school teacher I spent a few years as a specialist computing teacher where I introduced children to an exciting new world of possibilities such as creating robots using Raspberry Pis, micro:bits and Hummingbirds, but this also opened the door to myself, seeing the world as a digital creator rather than simply a digital user.
 
@@ -48,7 +48,7 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (February to May 2023)
+### Makers Academy (February to May 2023)
 
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
@@ -58,7 +58,7 @@ I honed my communication skills while completing my thesis at university, which 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Formal Education and Qualifications
+### Formal Education and Qualifications
 
 National Professional Qualification for Leading Teaching at UCL (IoE) and NELTSH, London. Nov 2021 to Nov 2022.
 
@@ -68,13 +68,30 @@ PGCE Certificate at The University of Cumbria, Tower Hamlets (London) campus. Se
 
 BA(Hons) degree in Furniture Craftsmanship and Design.
 Buckinghamshire Chilterns University College, High Wycombe.
-Lower Second Pass. Sept 1988 to July 1989.
+Lower Second Pass. Sept 1993 to July 1996.
 
-#### Other Significant Education
+Foundation Certificate in Art and Design at Hertfordshire College of Art and Design, St Albans. Sept 1988 to July 1989.
 
-##### and some less siginificant
+#### Other Significant (and not so significant) Education and more
 
-That in some arguable way make you a better software developer or well-rounded person
+Learn to Code with Ruby (Boris Paskhaver, Udemy, 33 hours of lectures, 2023) Codeacademy Learn Ruby (completed Dec 2022) Minecraft Certified Educator (2019) Certified Google Educator Level 1 (2018)
+Apple Teacher (2018) Certified Microsoft Educator (2018) Raspberry Pi Certified Educator (2016) Raspberry Pi Skycademy Graduate (2016)
+
+Diving Deep into Primary Programming (2018, with Jane Waite)
+LGfL Minecraft Champions (2018, LGfL/Microsoft/ProdigyLearning)
+Planning and Pedagogy for Coding in Primary (2017, with Jane Waite)
+Micro:bit Hands On Workshop (2017, with Tig Williams)
+
+A series of educational resources written for the Raspberry Pi Foudation's Informal Learning Team, e.g.:
+Crumble Motor Buggy (github page)
+[Motors, robot buggies and Scratch 3](https://projects.raspberrypi.org/en/projects/motor-robot-buggy-scratch){:target="\_blank"}! (github page)
+
+Articles written for Hello World! magazine:
+'Get Sparkling with Crumbles', Hello World article, issue 8, May 2019.
+‘Get moving with Crumble’, Hello World article, issue 11, December 2019.
+
+Cycling Proficiency Certificate
+Chainsaw Proficiency License
 
 ## Hobbies
 
