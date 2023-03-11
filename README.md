@@ -192,5 +192,3 @@ Chainsaw Proficiency License
 Competent in French Language
 Current DBS Certificate
 Lifelong maker (digital and analogue) and craftsperson
-
-#### Hello ###### Goodbye 
