@@ -140,27 +140,19 @@ Travel.
 
 ## Formal Education and Qualifications
 
-Nov 2021 to Nov 2022
-⦁
-National Professional Qualification for Leading Teaching at UCL (IoE) and NELTSH, London.
-July 2019 to Nov 2021
-⦁
-Level 3 Forest School Leader qualification from Open College Network West Midlands through EarthCraft UK.
-Sept 2010 to July 2011
-⦁
-The University of Cumbria, Tower Hamlets (London) campus.
-PGCE Certificate.
-Sept 1993 to July 1996
-⦁
-Buckinghamshire Chilterns University College, High Wycombe.
-BA(Hons) degree in Furniture Craftsmanship and Design.
-Lower Second Pass.
-Sept 1988 to July 1989
-⦁
-Hertfordshire College of Art and Design, St Albans.
-Foundation Certificate in Art and Design.
+National Professional Qualification for Leading Teaching at UCL (IoE) and NELTSH, London. Nov 2021 to Nov 2022.
+
+Level 3 Forest School Leader qualification from Open College Network West Midlands through EarthCraft UK. July 2019 to Nov 2021.
+
+PGCE Certificate at The University of Cumbria, Tower Hamlets (London) campus.
+Sept 2010 to July 2011.
+
+BA(Hons) degree in Furniture Craftsmanship and Design at Buckinghamshire Chilterns University College, High Wycombe.
+Lower Second Pass. Sept 1993 to July 1996.
+
+Foundation Certificate in Art and Design at Hertfordshire College of Art and Design, St Albans. Sept 1988 to July 1989.
+
 Sept 1980 to July 1988
-⦁
 Rickmansworth School, Croxley Green, Hertfordshire.
 O Levels:
 Grade A in Maths, History, Art, English Language and English Literature.
