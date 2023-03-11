@@ -4,7 +4,7 @@ I am a Full Stack Developer and pillow fighting gold medalist excited to find a 
 
 Before training in software development at the excellent Makers Academy, I was privileged to be working in primary schools in a variety of both exciting and exceptional roles such as being a Forest School leader and planting a woodland from nothing in a open field, developing a tech and maker driven STEM lab and sending a Raspberry Pi computer into near space sending live photos and flight telemetry as it went soaring towards the International Space Station. Before teaching I was a bespoke furniture designer and craftsperson following one thread of my lifelong love of making and creativity.
 
-I see software development as an extension of my love of making and am excited by the endless possibilities of code, the problem solving and rapid development. As a primary school teacher I spent a few years as a specialist computing teacher where I introduced children to an exciting new world of possibilities such as creating robots using Raspberry Pis, micro:bits and such, but this also opened the door to myself, seeing the world as a digital creator rather than just a digital user.
+I see software development as an extension of my love of making and am excited by the endless possibilities of code, the problem solving and rapid development. As a primary school teacher I spent a few years as a specialist computing teacher where I introduced children to an exciting new world of possibilities such as creating robots using Raspberry Pis, micro:bits and Hummingbirds, but this also opened the door to myself, seeing the world as a digital creator rather than simply a digital user.
 
 ## Projects
 
@@ -48,7 +48,7 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (February to May 2023)
 
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
@@ -58,17 +58,21 @@ I honed my communication skills while completing my thesis at university, which 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Formal Education and Qualifications
+
+National Professional Qualification for Leading Teaching at UCL (IoE) and NELTSH, London. Nov 2021 to Nov 2022.
+
+Level 3 Forest School Leader qualification from Open College Network West Midlands through EarthCraft UK. July 2019 to Nov 2021.
+
+PGCE Certificate at The University of Cumbria, Tower Hamlets (London) campus. Sept 2010 to July 2011.
 
 BA(Hons) degree in Furniture Craftsmanship and Design.
 Buckinghamshire Chilterns University College, High Wycombe.
-Lower Second Pass.
-Sept 1988 to July 1989
+Lower Second Pass. Sept 1988 to July 1989.
 
-- Grade
-- Other cool stuff
+#### Other Significant Education
 
-#### Any other qualifications
+##### and some less siginificant
 
 That in some arguable way make you a better software developer or well-rounded person
 
