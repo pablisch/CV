@@ -1,8 +1,8 @@
 ## Pablo Joyce
 
-I am a Full Stack Developer and pillow fighting gold medalist excited to find a great opportunity to consoldate my programming skills, expand my knowledge and bring obvious benefit in my new role. I enjoy all aspects of full stack development but am especially keen to focus on debeloping my front end skills.
+I am a Full Stack Developer and pillow fighting gold medalist excited to find a great opportunity to further consoldate my programming skills, expand my knowledge base and bring obvious benefit in my new role. I enjoy all aspects of full stack development but am especially keen to focus on debeloping my front end skills.
 
-Before training in software development at the excellent Makers Academy, I was privileged to be working in primary schools in a variety of both exciting and exceptional roles such as being a Forest School leader and planting a woodland from nothing in a open field, developing a tech and maker driven STEM lab and sending a Raspberry Pi computer into near space sending live photos and flight telemetry as it went soaring towards the International Space Station. while teaching I also worked for the most excellent Raspberry Pi Foundation writing educational resources and prior to all that I was a bespoke furniture designer and craftsperson following one thread of my lifelong love of making and creativity.
+Before training in software development at the excellent Makers Academy, I was privileged to be working in primary schools in a variety of both exciting and exceptional roles such as being a Forest School leader, planting, developing and nurturing a woodland where there had been an open field, developing a tech and maker driven STEM lab and sending a Raspberry Pi computer into near space sending live photos and flight telemetry as it went soaring towards the International Space Station. While teaching I also worked for the excellent Raspberry Pi Foundation writing educational resources and prior to all that I was a bespoke furniture designer and craftsperson following one thread of my lifelong love of making and creativity.
 
 I see software development as an extension of my love of making and am excited by the endless possibilities of code, the problem solving and rapid development. As a primary school teacher I spent a few years as a specialist computing teacher where I introduced children to an exciting new world of possibilities such as creating robots using Raspberry Pis, micro:bits and Hummingbirds, but this also opened the door to myself, seeing the world as a digital creator rather than simply a digital user.
 
@@ -26,6 +26,8 @@ _Your job title_
 - Any experience relevent to software development
 
 ## Skills
+
+When I was working as a primary STEM teacher, I was selected and tasked with organising and delivering a Forest School provision which was a large-scale, radical new offering for the school. Despite being far outside my knowledge base and way outside the remit of any primary teacher role, the school was confident that I could deliver this with my already proven record of delivery with the STEM?,akers space. I exceeded expectations, by establishing a sizable new woodland and outdoor learning environment ideal for the needs of our children whilst delvering exceptional Forest School delivery throughout the process under challenging conditions.
 
 Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
 
