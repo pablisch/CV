@@ -1,16 +1,16 @@
 ## Pablo Joyce
 
-I am a Full Stack Developer and pillow fighting gold medalist excited to find a great opportunity to further consoldate my programming skills, expand my knowledge base and bring obvious benefit in my new role. I enjoy all aspects of full stack development but am especially keen to focus on debeloping my front end skills.
+I am a Full Stack Developer and pillow fighting gold medalist excited to find a great opportunity to drive my programming skills forward, expand my knowledge base and bring obvious benefit in a supportive environment. I enjoy all aspects of full stack development but am especially keen to develop my front end skills.
 
-Before training in software development at the excellent Makers Academy, I was privileged to be working in primary schools in a variety of both exciting and exceptional roles such as being a Forest School leader, planting, developing and nurturing a woodland where there had been an open field, developing a tech and maker driven STEM lab and sending a Raspberry Pi computer into near space sending live photos and flight telemetry as it went soaring towards the International Space Station. While teaching I also worked for the excellent Raspberry Pi Foundation writing educational resources and prior to all that I was a bespoke furniture designer and craftsperson following one thread of my lifelong love of making and creativity.
+Before training in software development at the excellent Makers Academy, I was privileged to be working in primary schools in a variety of exciting and exceptional roles such as being a Forest School leader, planting, developing and nurturing a woodland where there had been an open field, developing a tech and maker driven STEM lab and sending a Raspberry Pi computer into near space sending live photos and flight telemetry as it went. While teaching I also worked for the fantastic Raspberry Pi Foundation writing educational resources and prior to all that I was a bespoke furniture designer and craftsperson following one thread of my lifelong love of making and creativity.
 
-I see software development as an extension of my love of making and am excited by the endless possibilities of code, the problem solving and rapid development. As a primary school teacher I spent a few years as a specialist computing teacher where I introduced children to an exciting new world of possibilities such as creating robots using Raspberry Pis, micro:bits and Hummingbirds, but this also opened the door to myself, seeing the world as a digital creator rather than simply a digital user.
+I see software development as an extension of my love of making and am excited by the endless possibilities of code, the problem solving and rapid development. As a primary school teacher I spent a few years as a specialist computing teacher where I introduced children to an exciting new world of possibilities such as creating robots using Raspberry Pis, micro:bits and Hummingbirds, and this also opened a door for myself, seeing the world as a digital creator rather than simply a digital user.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| Name                                    | Description       | Tech/tools        |
+| --------------------------------------- | ----------------- | ----------------- |
+| The London Underground Phony Orchestra  | A generative music | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
