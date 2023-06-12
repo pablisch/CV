@@ -9,8 +9,9 @@ I see software development as an extension of my love of making and am excited b
 ## Projects
 
 | Name                                    | Description       | Tech/tools        |
-| --------------------------------------- | ----------------- | ----------------- |
-| The London Underground Phony Orchestra  | A generative music | React, Jest, etc. |
+| ----------------------- | ----------------- | ----------------- |
+| The London Underground  | A generative music audio/visual web app | React, Tone.js, Jest, Cypress. |
+| Phony Orchestra         | based on London tube train arrivals     |                                |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
