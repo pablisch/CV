@@ -12,7 +12,7 @@ I see software development as an extension of my love of making and am excited b
 | ----------------------- | ----------------- | ----------------- |
 | The London Underground Phony Orchestra  | A generative music audio/visual web app based on London tube train arrivals   | React, Tone.js, Chart.js, Jest, Cypress |
 | FarceBook | A Facebook clone social media web app | MongoDB, Express, React, Node, Jest, Cypress |              
-| Lair BnB | A Lord of the Rings themed Air BnB clone | Ruby, Sinatra, Postgres |
+| Lair BnB | A Lord of the Rings themed Air BnB clone web app | Ruby, Sinatra, Postgres |
 
 ## Work Experience
 
