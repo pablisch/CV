@@ -1,6 +1,6 @@
 ## Pablo Joyce
 
-I am a Full Stack Developer and pillow fighting gold medalist excited to find a great opportunity to drive my programming skills forward, expand my knowledge base and bring obvious benefit in a supportive environment. I enjoy all aspects of full stack development but am especially keen to develop my front end skills.
+I am a Full Stack Developer and gold medal pillow fighting champion excited to find a great opportunity to drive my programming skills forward, expand my knowledge base and bring obvious benefit in a supportive environment. I enjoy all aspects of full stack development but am especially keen to further develop my front end skills.
 
 Before training in software development at the excellent Makers Academy, I was privileged to be working in primary schools in a variety of exciting and exceptional roles such as being a Forest School leader, planting, developing and nurturing a woodland where there had been an open field, developing a tech and maker driven STEM lab and sending a Raspberry Pi computer into near space sending live photos and flight telemetry as it went. While teaching I also worked for the fantastic Raspberry Pi Foundation writing educational resources and prior to all that I was a bespoke furniture designer and craftsperson following one thread of my lifelong love of making and creativity.
 
@@ -28,19 +28,17 @@ _Your job title_
 
 ## Skills
 
-When I was working as a primary STEM teacher, I was selected and tasked with organising and delivering a Forest School provision which was a large-scale, radical new offering for the school. Despite being far outside my knowledge base and way outside the remit of any primary teacher role, the school was confident that I could deliver this with my already proven record of delivery with the STEM?,akers space. I exceeded expectations, by establishing a sizable new woodland and outdoor learning environment ideal for the needs of our children whilst delvering exceptional Forest School delivery throughout the process under challenging conditions.
 
-I love problem solving which was an essential skill in developing the STEM/makers space and the baby woodland, dealing with limited resources, complex safe-guarding issues and as well as fulfilling the basic needs of over a thousand freshly planted saplings over a baking hot summer when everyone would be on holiday. From a point of zero knowledge, I personally designed and implemented an irrigation system allowing March Wood to thrive and in just two years some birch and cherry trees reached twice my height. Woodland design and management from scratch was an endless supply of challenges to be solved.
 
-Both teaching and furniture exposed me to working both completely independently and collaborating closely with others in a wide variety of working relationships from managing staff as a school leader implementing specific projects to presenting to senior leadership and governors. As a self-employed furniture craftsman I was solely responsible for every aspect of running my business.
+As a primary STEM lead, I was selected and tasked with researching, initialising and delivering a Forest School provision from scratch which was a large-scale, radical new offering for the school. Despite being far outside my knowledge base and way outside the remit of any primary teacher role, the school was confident that I could deliver this with my already proven record of delivery with the STEM Makers space. I exceeded expectations, by establishing a sizeable new woodland and outdoor learning environment ideal for the needs of our children whilst delivering exceptional Forest School delivery throughout the process under challenging conditions.
+
+I love problem solving which was an essential skill in developing the STEM/makers space and the baby woodland, dealing with limited resources, complex safe-guarding issues and as well as fulfilling the basic needs of over a thousand freshly planted saplings over a baking hot summer when everyone would be on holiday. From a point of zero knowledge, I personally designed and implemented an irrigation system allowing March Wood to thrive and in just two years some birch and cherry trees reached twice my height. Woodland design and management from scratch was an endless supply of challenges to be solved requiring resilience, initiative and ingenuity.
+
+Both teaching and furniture exposed me to working both completely independently and collaborating closely with others in a wide variety of working relationships from managing staff as a school leader designing and implementing purpose-led projects to presenting proposals to senior leadership and governors. As a self-employed furniture craftsman I was solely responsible for every aspect of running my business.
 
 In my last role as a Forest School Leader, I developed a great relationship with the colleagues that I led fostering buy-in from the whole team resulting in a coheseive and consistent delivery of our principles and provision. The result of this collaborative leadership approach was uprecedented work satisfaction amongst the team and a an exceptional experience for our children throughout the varied cohort groups.
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had.
-
-Here's an example
+For myself, feeling that my work was worthwhile and valued was a key factor in my work satisfaction and I have always sought to make work a similarly positive experience for my colleagues. Strong, clear communication and a collaborative approach to leadership are key to this as well as never assuming that others are aware of the value of their work and the impact that they are having.
 
 #### Communication
 
