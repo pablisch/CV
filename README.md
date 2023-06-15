@@ -1,10 +1,6 @@
 ## Pablo Joyce
 
-I am a Full Stack Developer and gold medal pillow fighting champion excited to find a great opportunity to drive my programming skills forward, expand my knowledge base and bring obvious benefit in a supportive environment. I enjoy all aspects of full stack development but am especially keen to further develop my front end skills.
-
-Before training in software development at the excellent Makers Academy, I was privileged to be working in primary schools in a variety of exciting and exceptional roles such as being a Forest School leader, planting, developing and nurturing a woodland where there had been an open field, developing a tech and maker driven STEM lab and sending a Raspberry Pi computer into near space sending live photos and flight telemetry as it went. While teaching I also worked for the fantastic Raspberry Pi Foundation writing educational resources and prior to all that I was a bespoke furniture designer and craftsperson following one thread of my lifelong love of making and creativity.
-
-I see software development as an extension of my love of making and am excited by the endless possibilities of code, the problem solving and rapid development. As a primary school teacher I spent a few years as a specialist computing teacher where I introduced children to an exciting new world of possibilities such as creating robots using Raspberry Pis, micro:bits and Hummingbirds, and this also opened a door for myself, seeing the world as a digital creator rather than simply a digital user.
+I am a Full Stack Developer and gold medal pillow fighting champion excited to unleash a lifelong love of learning and making on the unsuspecting world of software development. I bring a wealth of experience and skills from my previous iterations as [near-space explorer](https://drive.google.com/file/d/1Ux0WzHq4C_VjKTpD6_tQ9bgL5FZLLI30/view?usp=sharing), [forest creator](https://pablisch.github.io/MarchWood/), [primary STEM and computing lead](https://drive.google.com/file/d/1hII3l9qTuFXPPIyhFgQaDfRvK4Idw7UP/view?usp=sharing), [Forest School Leader](https://drive.google.com/file/d/111mB2kT8LZ10jiB-9pfOmwJcuUleq_c-/view?usp=sharing) and expert [furniture craftsperson](https://drive.google.com/file/d/1z13xi5hqcyK6msTku0fez1d1jXTstsT3/view?usp=sharing).
 
 ## Projects
 
@@ -27,6 +23,12 @@ _Your job title_
 - Any experience relevent to software development
 
 ## Skills
+
+#### Problem Solving
+
+
+problem solving
+
 
 
 
@@ -58,7 +60,7 @@ I honed my communication skills while completing my thesis at university, which 
 ### Makers Academy (February to May 2023)
 
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- e.g Frequently used paring in order to problem solve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below:
 - OOP, TDD, MVC, DDD
 - Agile/XP
