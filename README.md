@@ -43,6 +43,8 @@ _focussed on Test Driven Development (TDD), Object Oriented Programming (OOP), A
 
 **Initiative and delivery:** I have been repeatedly entrusted with special projects far outside my job remit and current knowledge having gained the trust that I can work flexibly, am driven to achieve and can learn whatever new skills may be required.
 
+**Growth mindset:** Good fortune has repeadly found me in uncomfortable situations requiring rapid and effective learning of new skills and knowledge. I have developed a deep understanding of the importance of a growth mindset and benefit of embracing challenges.
+
 **Reflection:** When implementing a radically new Forest School pedagogy into my school with independent responsibility for a small team, I used constant reflection, daily discussions and an agile approach to dynamically adjust our practice maximising benefits for children, staff and stakeholders.
 
 **Meta-cognition:** Research, leading teaching, being a cross-pedagogical educator, and a love of learning have given me insights into my learning processes helping me to learn more effectively and feel that everything is within reach.
@@ -53,7 +55,7 @@ _focussed on Test Driven Development (TDD), Object Oriented Programming (OOP), A
 
 **Creativity:** From furniture design to living willow mazes, and irrigation systems to STEM curriculum, creativity is an unaescapable part of me and an essential part of finding the best solution to any problem.
 
-**Growth mindset:** Good fortune has repeadly found me in uncomfortable situations requiring rapid and effective learning of new skills and knowledge. I have developed a deep understanding of the importance of a growth mindset and benefit of embracing challenges.
+**Precision:** Fulfilling the complex needs of a diverse range of children and colleagues in an unpredicatable environment and above all the extreme safeguarding requirements of Forest School has been ample preparation for Makers group engineering projects working with varied peers and managing complex codebases.
 
 ---
 
