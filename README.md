@@ -44,11 +44,13 @@ _focussed on Test Driven Development (TDD), Object Oriented Programming (OOP), A
 
 **Meta-cognition:** Research, leading teaching, being a cross-pedagogical educator, and a love of learning have given me insights into my learning processes helping me to learn more effectively and feel that everything is within reach.
 
+**Patience and resilience:** I was a primary school teacher for twelve years. Do you need to know more?
+
 **Empathy:** Working closely with vulnerable children and exhausted, overstretched colleagues has taught me how essential empathy is in positive collaboration and cohesive teamwork for an effective and enjoyable working life. Combined with strong, honest communication, this played a key part in creating a Forest School team with unprecedented work satisfaction and exceptional experiences for our children, and was the foundation of my successful group collaborations at Makers.
 
 **Creativity:** From furniture design to living willow mazes, and irrigation systems to STEM curriculum, creativity is an unaescapable part of me and an essential part of finding the best solution to any problem.
 
-**Growth mindset:** Good fortune has repeadly found me in difficult situations requiring rapid and effective learning of new skills and knowledge. I have developed a deep understanding of the importance of a growth mindset and benefit of embracing challenges.
+**Growth mindset:** Good fortune has repeadly found me in uncomfortable situations requiring rapid and effective learning of new skills and knowledge. I have developed a deep understanding of the importance of a growth mindset and benefit of embracing challenges.
 
 ---
 
@@ -102,7 +104,7 @@ _Craftsperson involved in a barn conversion project in Teyssieu, Lot, France_
 
 ### Other Significant (and not so significant) Education and more
 
-####Coding courses and qualifications
+#### Coding courses and qualifications
 - Learn to Code with Ruby (Boris Paskhaver, Udemy, 33 hours of lectures, 2023)
 - Codeacademy Learn Ruby (completed Dec 2022) Minecraft Certified Educator (2019)
 - Certified Google Educator Level 1 (2018)
