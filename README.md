@@ -16,7 +16,7 @@ I am a Full Stack Developer, [Makers](https://makers.tech/) graduate and gold me
 
 ## Education
 
-#### Makers Academy Software Development Bootcamp (February to May 2023)
+### Makers Academy Software Development Bootcamp (February to May 2023)
 _focussed on Test Driven Development (TDD), Object Oriented Programming (OOP), Agile and XP practices, and learning to learn_
 - Ruby, JavaScript, Postgres, MERN, RSpec and Cypress technologies, amongst others
 - Version control, high-quality, clean code, and regular peer and external code reviews
