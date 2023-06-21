@@ -25,9 +25,12 @@ _focussed on Test Driven Development (TDD), Object Oriented Programming (OOP), A
 
 ### Other Formal Education and Qualifications
 **National Professional Qualification for Leading Teaching** at UCL (IoE) and NELTSH, London (Nov 2021 to Nov 2022)
+
 **Level 3 Forest School Leader qualification** from Open College Network West Midlands through EarthCraft UK (July 2019 to Nov 2021)
 **PGCE Certificate** at The University of Cumbria, Tower Hamlets campus (Sept 2010 to July 2011)
+
 **BA(Hons) degree in Furniture Craftsmanship and Design** at Buckinghamshire Chilterns University College, High Wycombe. Lower Second Pass (Sept 1993 to July 1996)
+
 **Foundation Certificate in Art and Design** at Hertfordshire College of Art and Design, St Albans (Sept 1988 to July 1989)
 
 ---
