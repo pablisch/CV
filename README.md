@@ -1,6 +1,6 @@
 ## Pablo Joyce
 
-I am a Full Stack Developer and gold medal pillow fighting champion excited to unleash a lifelong love of learning and making on the unsuspecting world of software development. I bring a wealth of experience and skills from my previous iterations as a [near-space explorer](https://drive.google.com/file/d/1Ux0WzHq4C_VjKTpD6_tQ9bgL5FZLLI30/view?usp=sharing), [forest creator](https://pablisch.github.io/MarchWood/), [primary STEM and computing lead](https://drive.google.com/file/d/1hII3l9qTuFXPPIyhFgQaDfRvK4Idw7UP/view?usp=sharing), [Forest School Leader](https://drive.google.com/file/d/111mB2kT8LZ10jiB-9pfOmwJcuUleq_c-/view?usp=sharing) and expert [furniture craftsperson](https://drive.google.com/file/d/1z13xi5hqcyK6msTku0fez1d1jXTstsT3/view?usp=sharing).
+I am a Full Stack Developer, [Makers](https://makers.tech/) graduate and gold medal pillow fighting champion excited to unleash a lifelong love of learning and making on the unsuspecting world of software development. Along with a passion for 'how?', 'why?' and 'let's do it!', I bring a huge wealth of experience and skills from my previous iterations as a [near-space explorer](https://drive.google.com/file/d/1Ux0WzHq4C_VjKTpD6_tQ9bgL5FZLLI30/view?usp=sharing), [forest creator](https://pablisch.github.io/MarchWood/), [primary STEM and computing lead](https://drive.google.com/file/d/1hII3l9qTuFXPPIyhFgQaDfRvK4Idw7UP/view?usp=sharing), [Forest School Leader](https://drive.google.com/file/d/111mB2kT8LZ10jiB-9pfOmwJcuUleq_c-/view?usp=sharing) and expert [furniture craftsperson](https://drive.google.com/file/d/1z13xi5hqcyK6msTku0fez1d1jXTstsT3/view?usp=sharing).
 
 ---
 
@@ -16,11 +16,13 @@ I am a Full Stack Developer and gold medal pillow fighting champion excited to u
 
 ## Education
 
-#### Makers Academy Software Development Course (February to May 2023)
+#### Makers Academy Software Development Bootcamp (February to May 2023)
+_focussed on Test Driven Development (TDD), Object Oriented Programming (OOP), Agile and XP practices, and learning to learn_
 - Ruby, JavaScript, Postgres, MERN, RSpec and Cypress technologies, amongst others
-- Agile work practices throughout engineering projects
-- OOP, TDD, daily pairing, Git and GitHub
-- Self-led study, pairing, solo challenges and semi-directed and group-led engineering projects
+- Version control, high-quality, clean code, and regular peer and external code reviews
+- Self-led study, daily pairing, group projects and solo challenges
+- Agile work practices throughout engineering projects with an emphasis on EQ
+
 ### Other Formal Education and Qualifications
 **National Professional Qualification for Leading Teaching** at UCL (IoE) and NELTSH, London (Nov 2021 to Nov 2022)
 **Level 3 Forest School Leader qualification** from Open College Network West Midlands through EarthCraft UK (July 2019 to Nov 2021)
@@ -40,11 +42,13 @@ I am a Full Stack Developer and gold medal pillow fighting champion excited to u
 
 **Reflection:** When implementing a radically new Forest School pedagogy into my school with independent responsibility for a small team, I used constant reflection, daily discussions and an agile approach to dynamically adjust our practice maximising benefits for children, staff and stakeholders.
 
-**Meta-cognition:** Research, leading teaching, being a cross-pedagogical educator, and a love of learning have given me insights into my learning processes helping me to keep learning more and feel that everything is within reach.
+**Meta-cognition:** Research, leading teaching, being a cross-pedagogical educator, and a love of learning have given me insights into my learning processes helping me to learn more effectively and feel that everything is within reach.
 
-**Empathy:** Working closely with vulnerable children and exhausted, overstretched colleagues has taught me how essential empathy is in positive collaboration and cohesive teamwork, both in terms of effectiveness and enjoyment. Combined with strong communication, this played a key part in creating a Forest School team with unprecedented work satisfaction and exceptional experiences for our children.
+**Empathy:** Working closely with vulnerable children and exhausted, overstretched colleagues has taught me how essential empathy is in positive collaboration and cohesive teamwork for an effective and enjoyable working life. Combined with strong, honest communication, this played a key part in creating a Forest School team with unprecedented work satisfaction and exceptional experiences for our children, and was the foundation of my successful group collaborations at Makers.
 
-**Creativity:** From furniture design to living willow mazes, and irrigation systems to STEM curriculum, creativity is an important part of finding the right solution to any problem.
+**Creativity:** From furniture design to living willow mazes, and irrigation systems to STEM curriculum, creativity is an unaescapable part of me and an essential part of finding the best solution to any problem.
+
+**Growth mindset:** Good fortune has repeadly found me in difficult situations requiring rapid and effective learning of new skills and knowledge. I have developed a deep understanding of the importance of a growth mindset and benefit of embracing challenges.
 
 ---
 
