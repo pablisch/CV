@@ -43,7 +43,7 @@ _focussed on Test Driven Development (TDD), Object Oriented Programming (OOP), A
 
 **Initiative and delivery:** I have been repeatedly entrusted with special projects far outside my job remit and current knowledge having gained the trust that I can work flexibly, am driven to achieve and can learn whatever new skills may be required.
 
-**Growth mindset:** Good fortune has repeadly found me in uncomfortable situations requiring rapid and effective learning of new skills and knowledge. I have developed a deep understanding of the importance of a growth mindset and benefit of embracing challenges.
+**Growth mindset:** Good fortune has repeadly found me in uncomfortable situations requiring rapid and effective learning of new skills and knowledge. I have developed a deep understanding of the importance of a growth mindset, seeing mistakes as learning opportunities and benefit of embracing challenges.
 
 **Reflection:** When implementing a radically new Forest School pedagogy into my school with independent responsibility for a small team, I used constant reflection, daily discussions and an agile approach to dynamically adjust our practice maximising benefits for children, staff and stakeholders.
 
@@ -56,6 +56,8 @@ _focussed on Test Driven Development (TDD), Object Oriented Programming (OOP), A
 **Creativity:** From furniture design to living willow mazes, and irrigation systems to STEM curriculum, creativity is an unaescapable part of me and an essential part of finding the best solution to any problem.
 
 **Precision:** Fulfilling the complex needs of a diverse range of children and colleagues in an unpredicatable environment and above all the extreme safeguarding requirements of Forest School has been ample preparation for Makers group engineering projects working with varied peers and managing complex codebases.
+
+**User focus:** Reflective teaching is a purely user focussed process and a natural progression from years of furniture design and craftsmanship where beutiful, functional creations are designed for a specific user experience.
 
 ---
 
@@ -123,11 +125,11 @@ _Craftsperson involved in a barn conversion project in Teyssieu, Lot, France_
 - Micro:bit Hands-On Workshop (2017, with Tig Williams)
 #### Contributions to the coding community
 - A series of educational resources written for the Raspberry Pi Foundation Informal Learning Team including:
-  - Crumble Motor Buggy (GitHub page)
-  - Motors, robot buggies and Scratch 3 (GitHub page)
+  - [Crumble Motor Buggy](https://projects.raspberrypi.org/en/projects/build-crumble-motor-buggy) ([GitHub repository](https://github.com/raspberrypilearning/build-crumble-motor-buggy))
+  - [Motors, robot buggies and Scratch 3](https://projects.raspberrypi.org/en/projects/motor-robot-buggy-scratch) ([GitHub repository](https://github.com/raspberrypilearning/motor-robot-buggy-scratch/tree/master))
 - Articles I have written for Hello World! magazine:
-  - 'Get Sparkling with Crumbles', Hello World article, issue 8, May 2019.
-  - ‘Get moving with Crumble’, Hello World article, issue 11, December 2019.
+  - '[Get Sparkling with Crumbles](https://drive.google.com/file/d/1yUUAwGY1fK9Tl0r59wtcVd32sydWS_w5/view?usp=sharing)', Hello World article, issue 8, May 2019.
+  - ‘[Get moving with Crumble](https://drive.google.com/file/d/152B93VDnDqqQiMuQoppFDD7aG8YufguW/view?usp=sharing)’, Hello World article, issue 11, December 2019.
 #### Things I probably shouldn't mention
 - Cycling Proficiency Certificate
 - Chainsaw Proficiency License
