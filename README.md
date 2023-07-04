@@ -4,13 +4,39 @@ I am a Full Stack Developer, [Makers](https://makers.tech/) graduate and gold me
 
 ---
 
+## Languages and Tools:
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rspec/rspec-original.svg" alt="rspec" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>
+ </p>
+
+ ## GitHub Analytics
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablisch&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablisch&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
 ## Projects
 
 | Name  | Description  | Tech/tools |
 | ----------------------- | ----------------- | ----------------- |
 | [The London Underground Phony Orchestra](https://github.com/pablisch/lupo)  | A generative music audio/visual web app based on London tube train arrivals   | React, Tone.js, Chart.js, Jest, Cypress |
 | [FarceBook](https://github.com/ManuelaIacobovici/acebook-mern-water-team) | A Facebook clone social media web app | MongoDB, Express, React, Node, Jest, Cypress |              
-| [Lair BnB](https://github.com/pablisch/lair-bnb) | A Lord of the Rings themed Air BnB clone web app | Ruby, Sinatra, Postgres |
+| [Lair BnB](https://github.com/pablisch/lair-bnb) | A Lord of the Rings-themed Air BnB clone web app | Ruby, Sinatra, Postgres |
 
 ---
 
@@ -43,7 +69,7 @@ _focussed on Test Driven Development (TDD), Object Oriented Programming (OOP), A
 
 **Initiative and delivery:** I have been repeatedly entrusted with special projects far outside my job remit and current knowledge having gained the trust that I can work flexibly, am driven to achieve and can learn whatever new skills may be required.
 
-**Growth mindset:** Good fortune has repeadly found me in uncomfortable situations requiring rapid and effective learning of new skills and knowledge. I have developed a deep understanding of the importance of a growth mindset, seeing mistakes as learning opportunities and benefit of embracing challenges.
+**Growth mindset:** Good fortune has repeatedly found me in uncomfortable situations requiring rapid and effective learning of new skills and knowledge. I have developed a deep understanding of the importance of a growth mindset, seeing mistakes as learning opportunities and the benefit of embracing challenges.
 
 **Reflection:** When implementing a radically new Forest School pedagogy into my school with independent responsibility for a small team, I used constant reflection, daily discussions and an agile approach to dynamically adjust our practice maximising benefits for children, staff and stakeholders.
 
@@ -51,13 +77,13 @@ _focussed on Test Driven Development (TDD), Object Oriented Programming (OOP), A
 
 **Patience and resilience:** I was a primary school teacher for twelve years. Do you need to know more?
 
-**Empathy:** Working closely with vulnerable children and exhausted, overstretched colleagues has taught me how essential empathy is in positive collaboration and cohesive teamwork for an effective and enjoyable working life. Combined with strong, honest communication, this played a key part in creating a Forest School team with unprecedented work satisfaction and exceptional experiences for our children, and was the foundation of my successful group collaborations at Makers.
+**Empathy:** Working closely with vulnerable children and exhausted, overstretched colleagues has taught me how essential empathy is in positive collaboration and cohesive teamwork for an effective and enjoyable working life. Combined with strong, honest communication, this played a key part in creating a Forest School team with unprecedented work satisfaction and exceptional experiences for our children and was the foundation of my successful group collaborations at Makers.
 
-**Creativity:** From furniture design to living willow mazes, and irrigation systems to STEM curriculum, creativity is an unaescapable part of me and an essential part of finding the best solution to any problem.
+**Creativity:** From furniture design to living willow mazes, and irrigation systems to STEM curriculum, creativity is an inescapable part of me and an essential part of finding the best solution to any problem.
 
-**Precision:** Fulfilling the complex needs of a diverse range of children and colleagues in an unpredicatable environment and above all the extreme safeguarding requirements of Forest School has been ample preparation for Makers group engineering projects working with varied peers and managing complex codebases.
+**Precision:** Fulfilling the complex needs of a diverse range of children and colleagues in an unpredictable environment and above all the extreme safeguarding requirements of Forest School has been ample preparation for Makers group engineering projects working with varied peers and managing complex codebases.
 
-**User focus:** Reflective teaching is a purely user focussed process and a natural progression from years of furniture design and craftsmanship where beutiful, functional creations are designed for a specific user experience.
+**User focus:** Reflective teaching is a purely user-focused process and a natural progression from years of furniture design and craftsmanship where beautiful, functional creations are designed for a specific user experience.
 
 ---
 
@@ -137,7 +163,7 @@ _Craftsperson involved in a barn conversion project in Teyssieu, Lot, France_
 - I love climbing and surfing.
 - I am habitually immersed in arts and crafts and making, such as bookbinding, axe carving and painting.
 - I'm a part-time board game geek.
-- I have a deep love of mountains, sea and forests and very excited about all of them together.
+- I have a deep love of mountains, sea and forests and am very excited about all of them together.
 
 
 
