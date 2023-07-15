@@ -1,6 +1,6 @@
 ## Pablo Joyce
 
-I am a Full Stack Developer, [Makers](https://makers.tech/) graduate and gold medal pillow fighting champion excited to unleash a lifelong love of learning and making on the unsuspecting world of software development. Along with a passion for 'how?', 'why?' and 'let's do it!', I bring a huge wealth of experience and skills from my previous iterations as a [edge of space explorer](https://drive.google.com/file/d/1Ux0WzHq4C_VjKTpD6_tQ9bgL5FZLLI30/view?usp=sharing), [forest creator](https://pablisch.github.io/MarchWood/), [primary STEM and computing lead](https://drive.google.com/file/d/1hII3l9qTuFXPPIyhFgQaDfRvK4Idw7UP/view?usp=sharing), [Forest School Leader](https://drive.google.com/file/d/111mB2kT8LZ10jiB-9pfOmwJcuUleq_c-/view?usp=sharing) and expert [furniture craftsperson](https://drive.google.com/file/d/1z13xi5hqcyK6msTku0fez1d1jXTstsT3/view?usp=sharing).
+I am a Full Stack Developer, [Makers](https://makers.tech/) graduate and gold medal pillow fighting champion excited to unleash a lifelong love of learning and making on the unsuspecting world of software development. Along with a passion for 'how?', 'why?' and 'let's do it!', I bring a huge wealth of experience and skills from my previous iterations as a edge of space explorer, forest creator, primary STEM and computing lead, Forest School Leader and expert furniture craftsperson. [Curious? Click here](https://pablisch.github.io/cv-about-links/).
 
 ---
 
@@ -31,6 +31,7 @@ I am a Full Stack Developer, [Makers](https://makers.tech/) graduate and gold me
 </p>
 
 ## Projects
+[Click here for separate project page.](https://pablisch.github.io/my-app-projects/)
 
 | Name  | Description  | Tech/tools |
 | ----------------------- | ----------------- | ----------------- |
