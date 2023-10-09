@@ -2,6 +2,8 @@
 
 I am a Full Stack Developer, [Makers](https://makers.tech/) graduate and gold medal pillow fighting champion excited to unleash a lifelong love of learning and making on the unsuspecting world of software development. Along with a passion for 'how?', 'why?' and 'let's do it!', I bring a huge wealth of experience and skills from my previous iterations as a edge of space explorer, forest creator, primary STEM and computing lead, Forest School Leader and expert furniture craftsperson. [Curious? Click here](https://pablisch.github.io/cv-about-links/).
 
+I am currently working on a React AI meal plan generator site for [Pensano.dev](https://pensano.dev/) and learning Java.
+
 ---
 
 ## Languages and Tools:
@@ -90,6 +92,19 @@ _focussed on Test Driven Development (TDD), Object Oriented Programming (OOP), A
 
 ---
 
+## Contributions to the coding community
+
+- Volunteer Software Engineer at [Pensano.dev](https://pensano.dev/)
+- Volunteer coach at [codebar.io](https://codebar.io/), breaking barriers into Software Development for under-represented groups
+- A series of educational resources written for the Raspberry Pi Foundation Informal Learning Team including:
+  - [Crumble Motor Buggy](https://projects.raspberrypi.org/en/projects/build-crumble-motor-buggy) ([GitHub repository](https://github.com/raspberrypilearning/build-crumble-motor-buggy))
+  - [Motors, robot buggies and Scratch 3](https://projects.raspberrypi.org/en/projects/motor-robot-buggy-scratch) ([GitHub repository](https://github.com/raspberrypilearning/motor-robot-buggy-scratch/tree/master))
+- Articles I have written for Hello World! magazine:
+  - '[Get Sparkling with Crumbles](https://drive.google.com/file/d/1yUUAwGY1fK9Tl0r59wtcVd32sydWS_w5/view?usp=sharing)', Hello World article, issue 8, May 2019.
+  - ‘[Get moving with Crumble](https://drive.google.com/file/d/152B93VDnDqqQiMuQoppFDD7aG8YufguW/view?usp=sharing)’, Hello World article, issue 11, December 2019.
+
+---
+
 ## Employment History
 
 **The Devonshire Hill Nursery and Primary School, Haringey** (Jan 2017 to Dec 2022)
@@ -152,16 +167,11 @@ _Craftsperson involved in a barn conversion project in Teyssieu, Lot, France_
 - LGfL Minecraft Champions (2018, LGfL/Microsoft/ProdigyLearning)
 - Planning and Pedagogy for Coding in Primary (2017, with Jane Waite)
 - Micro:bit Hands-On Workshop (2017, with Tig Williams)
-#### Contributions to the coding community
-- A series of educational resources written for the Raspberry Pi Foundation Informal Learning Team including:
-  - [Crumble Motor Buggy](https://projects.raspberrypi.org/en/projects/build-crumble-motor-buggy) ([GitHub repository](https://github.com/raspberrypilearning/build-crumble-motor-buggy))
-  - [Motors, robot buggies and Scratch 3](https://projects.raspberrypi.org/en/projects/motor-robot-buggy-scratch) ([GitHub repository](https://github.com/raspberrypilearning/motor-robot-buggy-scratch/tree/master))
-- Articles I have written for Hello World! magazine:
-  - '[Get Sparkling with Crumbles](https://drive.google.com/file/d/1yUUAwGY1fK9Tl0r59wtcVd32sydWS_w5/view?usp=sharing)', Hello World article, issue 8, May 2019.
-  - ‘[Get moving with Crumble](https://drive.google.com/file/d/152B93VDnDqqQiMuQoppFDD7aG8YufguW/view?usp=sharing)’, Hello World article, issue 11, December 2019.
+
 #### Things I probably shouldn't mention
 - Cycling Proficiency Certificate
 - Chainsaw Proficiency License
+  
 #### Hobbies
 - I love climbing and surfing.
 - I am habitually immersed in arts and crafts and making, such as bookbinding, axe carving and painting.
