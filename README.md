@@ -1,6 +1,6 @@
 ## Pablo Joyce
 
-I am a Full Stack Developer, [Makers](https://makers.tech/) graduate and gold medal pillow fighting champion excited to unleash a lifelong love of learning and making on the unsuspecting world of software development. Along with a passion for 'how?', 'why?' and 'let's do it!', I bring a huge wealth of experience and skills from my previous iterations as a edge of space explorer, forest creator, primary STEM and computing lead, Forest School Leader and expert furniture craftsperson. [Curious? Click here](https://pablisch.github.io/cv-about-links/).
+I am a Full Stack Developer, [Makers](https://makers.tech/) graduate and gold medal pillow fighting champion excited to unleash a lifelong love of learning and making on the unsuspecting world of software development. Along with a passion for 'how?', 'why?' and 'let's do it!', I bring a huge wealth of experience and skills from my previous iterations as an edge-of-space explorer, forest creator, primary STEM and computing lead, Forest School Leader and expert furniture craftsperson. [Curious? Click here](https://pablisch.github.io/cv-about-links/).
 
 I am currently working on a React AI meal plan generator site for [Pensano.dev](https://pensano.dev/) and learning Java.
 
